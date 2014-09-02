@@ -235,6 +235,7 @@ Python has quite a few built in standard libraries, and the extended library eco
 Each of these libraries have a number of modules or functions.
 
 **Example: Using `math.sqrt` to find the square root**
+
     import math
     print math.sqrt(9)
 
