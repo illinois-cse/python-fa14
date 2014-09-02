@@ -139,6 +139,7 @@ Some properties of lists:
 
 ### **Exercise 2**
 Try the following:
+
     myfirstlist.append(5)
     myfirstlist.insert(1,5)
     myfirstlist.sort()
@@ -163,6 +164,7 @@ So, tuples are _____________?
 A dictionary is a set of `key:value` pairs---in other words, an index to look up a data point.  They are quite useful in advanced programming as we will see later on.
 
 **Example:**
+
     myfirstdict = {‘a’:1, ‘b’:2, ‘c’:3}
     'a' in myfirstdict #True
 
